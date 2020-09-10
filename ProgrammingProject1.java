@@ -1,21 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package programmingproject1;
 
 import java.util.Scanner;
 
-/**
- *
- * @author cezan
- */
 public class ProgrammingProject1 {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         
         int containerType; // create a string variable for containerType 
@@ -26,7 +16,6 @@ public class ProgrammingProject1 {
         int length; // create an int variable for length
         
     
-        
         
         System.out.println("What type of container are you filling today?");
         System.out.println("");
